@@ -1,0 +1,8 @@
+{
+  "short_name": "Solana",
+  "name": "Solana Whales",
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#1A73E8",
+  "background_color": "#ffffff"
+}
